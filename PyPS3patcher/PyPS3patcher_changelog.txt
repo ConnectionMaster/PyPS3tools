@@ -2,6 +2,9 @@ PyPS3patcher - Python patcher script for PS3 flash memory dump files
 Copyright (C) 2015 littlebalup@gmail.com
 -------------------------------------------------------------------
 
+v0.3.15, (04 sept 2026) :
+replaced noFSM patch 4.92 by noFSM patch 4.93.
+
 v0.3.14, (09 march 2025) :
 replaced noFSM patch 4.91 by noFSM patch 4.92.
 
